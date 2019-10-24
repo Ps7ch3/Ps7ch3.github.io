@@ -198,7 +198,6 @@ blog.ajax = function(option, success, fail) {
   xmlHttp.send()
 }
 
-// 打印主题标识,请保留出处
 blog.addLoadEvent(function() {
   var style1 = 'background:#4BB596;color:#ffffff;border-radius: 2px;'
   var style2 = 'color:#000000;'
