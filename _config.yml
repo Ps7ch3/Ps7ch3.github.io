@@ -5,7 +5,7 @@ title: Ps7ch3
 description: Ps7ch3's Blog
 keywords: Ps7ch3,Blog
 author: Ps7ch3
-footerText: '☥ 0x51696e'
+footerText: '⇜ 0x51696e'
 
 # 这些不要动
 permalink: /posts/:year/:month/:day/:title.html
@@ -16,11 +16,11 @@ exclude: ['CNAME', 'README.md', 'LICENSE', 'build']
 
 # 菜单
 menu:
-  - title: 首页
+  - title: H0m3 
     url: /
-  - title: 归类
+  - title: CaTeg04ies
     url: /pages/categories.html
-  - title: 搜索
+  - title: F1nD
     url: /pages/search.html
 
 # 自定义插件
