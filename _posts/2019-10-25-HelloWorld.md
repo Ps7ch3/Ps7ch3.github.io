@@ -1,7 +1,7 @@
 ---
 layout: mypost
 title: Hello World
-categories: [H31l0 wo4lb]
+categories: [H31lo_Wo4lb]
 ---
 
 ### Hello World.
