@@ -202,8 +202,8 @@ blog.ajax = function(option, success, fail) {
 blog.addLoadEvent(function() {
   var style1 = 'background:#4BB596;color:#ffffff;border-radius: 2px;'
   var style2 = 'color:#000000;'
-  var author = ' TMaize'
-  var github = ' https://github.com/TMaize/tmaize-blog'
+  var author = ' Ps7ch3'
+  var github = ' https://github.com/Ps7ch3'
   var build = ' ' + blog.buildAt
   console.info('%c Theme Author %c' + author, style1, style2)
   console.info('%c Theme GitHub %c' + github, style1, style2)
